@@ -3,9 +3,8 @@
 #include <iostream>
 #include <QObject>
 
-//A5: Simon Game
+// Simon Game
 //Author: Devin White
-//Cs 3505
 //constructor
 Simon::Simon(QObject *parent) : QObject(parent)
 {
