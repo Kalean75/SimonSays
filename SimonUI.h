@@ -5,8 +5,6 @@
 #include "simon.h"
 #include <QTimer>
 //Author:Devin White
-//Cs 3505
-//A5 Simon Game
 namespace Ui {
 class MainWindow;
 }
