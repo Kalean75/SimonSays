@@ -4,9 +4,8 @@
 #include <iostream>
 #include <string>
 
-//A5: Simon UI
+//Simon UI
 //Author Devin White
-//Cs 3505
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow), simon(this)
